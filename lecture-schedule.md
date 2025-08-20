@@ -1,8 +1,7 @@
 # Lecture Schedule
 
-- Lectures Thursdays (KE E-166 [mazemap][https://link.mazemap.com/lOKTYUPf]) and Fridays (KE C-101 [mazemap](https://link.mazemap.com/xD9V0Axx)): 8.15 - 10
+- Lectures Thursdays (KE E-166 [mazemap](https://link.mazemap.com/lOKTYUPf) and Fridays (KE C-101 [mazemap](https://link.mazemap.com/xD9V0Axx)): 8.15 - 10
 - Lab (KE A-205 [mazeap](https://link.mazemap.com/zfxeEQJe)): Thursdays 10:15 - 12:00 (We will stick to one room i.e, we will not be in KE D-201)
-- 
 
 
 | W   | Date  | Type    | Teacher                      | Topic                                                           | Resources                                             | Travels / Remarks |
