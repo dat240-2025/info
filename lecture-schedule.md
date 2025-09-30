@@ -42,5 +42,6 @@
 | 45  | 06/11 | Lecture | Glenn                        | Cloud models and docker concepts                                |                                                       |                   |
 |     | 07/11 | Lecture | Glenn                        | Docker examples / DevOps concepts                               |                                                       |                   |
 | 46  | 13/11 | Lecture | Glenn                        | DevOps examples                                                 |                                                       |                   |
-|     | 13/11 | Lab     | Student assistants           | **Project due**                                                 |                                                       |                   |
+|     | 13/11 | Lab     | Student assistants           |                                                 |                                                       |                   |
 |     | 14/11 | Lecture | TBA                          |                                                                 |                                                       |                   |
+| 48  | 23/11 |  |                         | **Project Due**                                                |                                                       |                   |
